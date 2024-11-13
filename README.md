@@ -18,7 +18,7 @@ Accept: application/json
 
 Get a specific movie
 ```http request
-GET localhost:3000/movies/5
+GET http://localhost:3000/movies/5
 Accept: application/json
 ```
 
